@@ -1,8 +1,8 @@
 这里是 Sving1024，一位现役 OIer。
 偶尔会在 github 上写一点小项目。
-你可以在[这里](https://github.com/Sving1024/PKGBUILD)找到我在 AUR 上的一些 PKGBUILD,如果你需要的话，也可以尝试使用我搭建的简易 archlinux repo（也在那个仓库里）。
-如果你恰好需要批量保存洛谷的题目，可以试试 [lgsv](https://github.com/Sving1024/lgsv)。
-同时，也欢迎造访[我的博客](https://blogs.sving1024.top)，上面会有一些和我最近学习有关的文章。
+你可以在[这里](https://github.com/Sving1024/PKGBUILD)找到我在 AUR 上的一些 PKGBUILD,如果你需要的话，也可以尝试使用我搭建的简易 archlinux repo（也在那个仓库里）。    
+如果你恰好需要批量保存洛谷的题目，可以试试 [lgsv](https://github.com/Sving1024/lgsv)。     
+同时，也欢迎造访[我的博客](https://blogs.sving1024.top)，上面会有一些和我最近学习有关的文章。     
 
 你可以通过邮件联系我：[sving1024@outlook.com](mailto:sving1024@outlook.com)
 
