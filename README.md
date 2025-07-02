@@ -17,4 +17,3 @@ My pgp pubkey is subbmited to the keyserver. Its fingerprint is `29009060DD1F2D0
 你可以通过邮件联系我：[sving1024@outlook.com](mailto:sving1024@outlook.com)
 
 如果你需要的话，也可以使用 PGP 与我进行加密交流，我的 PGP 公钥已经上传至密钥服务器，PGP 指纹是`29009060DD1F2D02A8175C412BCE145890082742`）。你也可以在我的自述仓库里找到我的 PGP 公钥。
-```
